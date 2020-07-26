@@ -186,3 +186,36 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+.contact {
+    text-align: center;
+    background-color: #024e76;
+}
+.contact h2 {
+    color: #fce138;
+    display: inline-block;
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+.contact-info h3 {
+    font-size: 32px;
+    color: #fce138;
+}
+.contact-info p, .contact-info address {
+    font-size: 17px;
+    line-height: 1.5;
+    font-style: normal;
+    margin-bottom: 20px 0;
+}
+.contact-info a {
+    color: #fce138;
+}
