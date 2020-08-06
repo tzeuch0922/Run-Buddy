@@ -86,7 +86,6 @@ section {
 .hero {
     background-image:url("../images/hero-bg.jpg");
     background-size: cover;
-    background-position: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
